@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-bot-salamibrot",
+  "version": "1.0.0",
+  "description": "Minecraft Bot für xxAll.aternos.me:58774",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.11.0"
+  }
+}
